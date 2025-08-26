@@ -1,2 +1,1 @@
-# lin.rsvim
-Lin Rongbin's RSVIM config
+# lin.rsvim : Lin Rongbin's RSVIM Distribution
