@@ -1,4 +1,4 @@
-import ex from "@rsvim/ex.rsvim";
+import ex from "ex.rsvim";
 
 Rsvim.opt.wrap = true;
 Rsvim.opt.expandTab = true;
